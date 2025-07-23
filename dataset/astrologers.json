@@ -1,0 +1,147 @@
+[
+    {
+        "name": "Astro Ram",
+        "bio": "Expert in career and finance guidance",
+        "tags": [
+            "career",
+            "finance"
+        ]
+    },
+    {
+        "name": "Priya Devi",
+        "bio": "Helps in love life and marriage decisions",
+        "tags": [
+            "love",
+            "marriage"
+        ]
+    },
+    {
+        "name": "Guru Manish",
+        "bio": "Focuses on spirituality and health advice",
+        "tags": [
+            "spirituality",
+            "health"
+        ]
+    },
+    {
+        "name": "Jyoti Singh",
+        "bio": "Astrology for relationships and breakups",
+        "tags": [
+            "love",
+            "relationship"
+        ]
+    },
+    {
+        "name": "Yogi Ramesh",
+        "bio": "Life path and destiny analysis through palm reading",
+        "tags": [
+            "destiny",
+            "palmistry"
+        ]
+    },
+    {
+        "name": "Dr. Kavita Rao",
+        "bio": "Combines career and emotional wellbeing guidance",
+        "tags": [
+            "career",
+            "mental health"
+        ]
+    },
+    {
+        "name": "Tantra Baba",
+        "bio": "Specializes in solving family disputes and money problems",
+        "tags": [
+            "family",
+            "finance"
+        ]
+    },
+    {
+        "name": "Sunita Bhargav",
+        "bio": "Helps you heal from past traumas through astrology",
+        "tags": [
+            "healing",
+            "spirituality"
+        ]
+    },
+    {
+        "name": "Naina Shastri",
+        "bio": "Renowned expert in marriage predictions and kundli matching",
+        "tags": [
+            "marriage",
+            "compatibility"
+        ]
+    },
+    {
+        "name": "Rohit Sharma",
+        "bio": "Helps professionals navigate career blocks and workplace stress",
+        "tags": [
+            "career",
+            "stress"
+        ]
+    },
+    {
+        "name": "Sage Arvind",
+        "bio": "Spiritual guide offering clarity on soul purpose and destiny",
+        "tags": [
+            "destiny",
+            "spirituality"
+        ]
+    },
+    {
+        "name": "Kavya Joshi",
+        "bio": "Empowers individuals to overcome emotional trauma through Vedic astrology",
+        "tags": [
+            "healing",
+            "mental health"
+        ]
+    },
+    {
+        "name": "Tarun Vyas",
+        "bio": "Astrologer focusing on financial growth and wealth building",
+        "tags": [
+            "finance",
+            "wealth"
+        ]
+    },
+    {
+        "name": "Maya Acharya",
+        "bio": "Specialist in relationship counseling and love astrology",
+        "tags": [
+            "love",
+            "relationship"
+        ]
+    },
+    {
+        "name": "Acharya Vikram",
+        "bio": "Guides youth through career and academic dilemmas with astrological insight",
+        "tags": [
+            "career",
+            "education"
+        ]
+    },
+    {
+        "name": "Swami Pranav",
+        "bio": "Uses astrology to help with family harmony and personal growth",
+        "tags": [
+            "family",
+            "growth"
+        ]
+    },
+    {
+        "name": "Divya Patel",
+        "bio": "Known for accurate predictions in childbirth and parenting matters",
+        "tags": [
+            "parenting",
+            "family"
+        ]
+    },
+    {
+        "name": "Rishi Omkar",
+        "bio": "Provides spiritual healing and aura cleansing advice through astrology",
+        "tags": [
+            "healing",
+            "aura cleansing",
+            "spirituality"
+        ]
+    }
+]
